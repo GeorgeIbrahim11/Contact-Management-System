@@ -1,17 +1,9 @@
 # Contact Management System
 ### CSE333 – Data Structures and Algorithms | Group Project – Spring 2026
 
----
 
-## Group Members
 
-| Name | ID |
-|------|----|
-| George Ibrahim Abdo| [2300285] |
-| [Giovanni boulis abdo] | [2300063] |
-| [Ali said Abdelhamid Khalil ] | [2300227] |
-| [MOHAMED ELSAYED MOUSTAFA HAMOUDA] | [2200095] |
-| [Adham Ahmed Hussein Abdelaal] | [2100725] |
+
 
 ---
 
